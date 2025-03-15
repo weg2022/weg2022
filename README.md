@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm weg2022
 
-Welcome to my GitHub profile! I'm a passionate software engineer, open-source enthusiast, and founder of **Prime4J Dev**. I specialize in **software architecture, performance optimization, UI/UX design, and full-stack development**.
+Welcome to my GitHub profile! I'm a passionate software engineer, open-source enthusiast, and member of **Prime4J Dev**. I specialize in **software architecture, performance optimization, UI/UX design, and full-stack development**.
 
 ## 🚀 About Me
 - 🔹 **Languages:** Java, Kotlin, C++, C#, Dart, Python, TypeScript, Go  
-- 🔹 **Tech Stack:** Flutter, React, Spring Boot, FFmpeg, OpenGL, WebRTC, Redis, PostgreSQL, RabbitMQ  
+- 🔹 **Tech Stack:** Full-stack developer specializing in Java/Kotlin/C++/C# backend, Flutter desktop apps, FFmpeg video processing, microservices architecture, and high-performance optimization with UI design expertise.  
 - 🔹 **Focus Areas:** High-performance architecture, GPU-accelerated computing, cross-platform development, video processing  
 - 🔹 **Member of [Prime4J](https://github.com/Prime4J)**, building cutting-edge developer tools & frameworks  
 
