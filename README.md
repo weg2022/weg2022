@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm weg2022
 
-Welcome to my GitHub profile! I'm a passionate software engineer**.
+Welcome to my GitHub profile! I'm a passionate software engineer.
 
 ## 🚀 About Me
 - 🔹 **Program Languages:** Java, Kotlin, C++, C#, Dart, Python, TypeScript, Go 
