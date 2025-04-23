@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm weg2022
+# Hi there! 👋 I'm wegland
 
 Welcome to my GitHub profile! I'm a passionate software engineer.
 
